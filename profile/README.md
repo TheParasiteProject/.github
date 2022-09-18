@@ -15,12 +15,16 @@ Check these repos for information.
 ## Credits
 - [AOSPA](https://github.com/AOSPA)
 - [crDroid Android](https://github.com/crdroidandroid)
+- [DerpFest AOSP](https://github.com/DerpFest-AOSP)
+- [Descendant](https://github.com/Descendant-XI)
 - [Evolution-X](https://github.com/Evolution-X)
+- [Flamingo-OS](https://github.com/Flamingo-OS)
 - [hentaiOS](https://github.com/hentaiOS)
 - [LineageOS](https://github.com/LineageOS)
 - [PixelExperience](https://github.com/PixelExperience)
 - [ProtonAOSP](https://github.com/protonAOSP)
 - [Project Kaleidoscope](https://github.com/Project-Kaleidoscope)
 - [StatiX](https://github.com/StatiXOS)
+- [Yet another AOSP project](https://github.com/yaap)
 <br/>
-And many others...
+And many other great projects!
