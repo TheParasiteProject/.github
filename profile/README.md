@@ -13,6 +13,7 @@ Check these repos for information.
 - [vendor_pixel-additional](https://github.com/TheParasiteProject/vendor_pixel-additional)
 
 ## Credits
+- [Acme UI](https://github.com/AcmeUI)
 - [AOSPA](https://github.com/AOSPA)
 - [crDroid Android](https://github.com/crdroidandroid)
 - [DerpFest AOSP](https://github.com/DerpFest-AOSP)
@@ -26,5 +27,6 @@ Check these repos for information.
 - [Project Kaleidoscope](https://github.com/Project-Kaleidoscope)
 - [StatiX](https://github.com/StatiXOS)
 - [Yet another AOSP project](https://github.com/yaap)
+
 <br/>
 And many other great projects!
