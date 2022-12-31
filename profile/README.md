@@ -1,9 +1,9 @@
-# TheParasiteProject
+# [WIP] TheParasiteProject
 
 Some minimal changes applied personal AOSP project,<br/>
 which based on PixelExperience,</br>
 that add Google Play System Update, Carrier Settings, and features that of personal taste :P<br/>
-by Parasitizing on other AOSP projects.
+by ```Parasitizing``` on other AOSP projects.
 
 ## Build Process
 
