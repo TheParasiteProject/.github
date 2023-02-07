@@ -8,6 +8,7 @@ by ```Parasitizing``` on other AOSP projects.
 ## Build Process
 
 Check these repos for information.
+- [manifest](https://github.com/TheParasiteProject/manifest)
 - [local_manifests](https://github.com/TheParasiteProject/local_manifests)
 - [vendor_pixel-additional](https://github.com/TheParasiteProject/vendor_pixel-additional)
 - [vendor_aosp](https://github.com/TheParasiteProject/vendor_aosp)
