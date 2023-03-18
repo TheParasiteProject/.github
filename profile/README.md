@@ -1,4 +1,4 @@
-# TheParasiteProject [WIP (BORKEN)]
+# TheParasiteProject [WIP]
 
 Some minimal changes applied personal AOSP project,<br/>
 which based on PixelExperience,</br>
