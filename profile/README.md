@@ -1,4 +1,4 @@
-# TheParasiteProject [WIP]
+# TheParasiteProject [WIP (Pixel-fw not working yet)]
 
 Some minimal changes applied personal AOSP project,<br/>
 which based on PixelExperience,</br>
