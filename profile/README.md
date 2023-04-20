@@ -15,7 +15,7 @@ Check these repos for information.
 
 ## Devices
 
-- [TheParasiteProject Devices](https://github.com/TheParasiteProject-Devices)
+- [TheParasiteProject-Devices](https://github.com/TheParasiteProject-Devices)
 
 ## Credits
 - [Acme UI](https://github.com/AcmeUI)
