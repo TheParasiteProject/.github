@@ -13,6 +13,10 @@ Check these repos for information.
 - [vendor_pixel-additional](https://github.com/TheParasiteProject/vendor_pixel-additional)
 - [vendor_aosp](https://github.com/TheParasiteProject/vendor_aosp)
 
+## Devices
+
+- [TheParasiteProject Devices](https://github.com/TheParasiteProject-Devices)
+
 ## Credits
 - [Acme UI](https://github.com/AcmeUI)
 - [AOSPA](https://github.com/AOSPA)
