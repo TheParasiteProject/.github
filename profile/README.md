@@ -1,4 +1,4 @@
-# TheParasiteProject
+# TheParasiteProject [QPR3 WIP] [BROKEN]
 
 Some minimal changes applied ```personal``` AOSP project,<br/>
 which based on PixelExperience,</br>
