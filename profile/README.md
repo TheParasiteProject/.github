@@ -1,4 +1,4 @@
-# TheParasiteProject [Pixel Usage Graph Broken]
+# TheParasiteProject
 
 Some minimal changes applied ```personal``` AOSP project,<br/>
 which based on PixelExperience,</br>
