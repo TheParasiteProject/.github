@@ -1,6 +1,6 @@
 # TheParasiteProject
 
-## TheParasiteProject is always be Personal project!
+## TheParasiteProject will always be Personal project!
 
 Some minimal changes applied ```personal``` AOSP project,<br/>
 which based on PixelExperience,</br>
