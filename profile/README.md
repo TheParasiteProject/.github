@@ -1,11 +1,13 @@
 # TheParasiteProject
 
-## This is Personal project!
+## TheParasiteProject is always be, and must be, Personal project!
 
 Some minimal changes applied ```personal``` AOSP project,<br/>
 which based on PixelExperience,</br>
 that add Google Play System Update, Carrier Settings, and features that of personal taste :P<br/>
 by ```Parasitizing``` on other AOSP projects.
+
+Hope this project helpful to your projects :)
 
 ## Build Process
 
