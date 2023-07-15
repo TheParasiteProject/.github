@@ -3,7 +3,7 @@
 ## TheParasiteProject will always be Personal project!
 
 Some minimal changes applied ```personal``` AOSP project,<br/>
-which based on PixelExperience,</br>
+which hardly based on [PixelExperience](https://github.com/PixelExperience),</br>
 that add Google Play System Update, Carrier Settings, and features that of personal taste :P<br/>
 by ```Parasitizing``` on other AOSP projects.
 
