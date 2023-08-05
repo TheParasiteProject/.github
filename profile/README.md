@@ -37,6 +37,7 @@ Check these repos for information.
 - [ProtonAOSP](https://github.com/protonAOSP)
 - [Project Kaleidoscope](https://github.com/Project-Kaleidoscope)
 - [riceDroid Open Source Software](https://github.com/ricedroidOSS)
+- [Rising Tech Open Source Software](https://github.com/RisingTechOSS)
 - [StatiX](https://github.com/StatiXOS)
 - [VoidUI Tiramisu](https://github.com/VoidUI-Tiramisu)
 - [Yet another AOSP project](https://github.com/yaap)
