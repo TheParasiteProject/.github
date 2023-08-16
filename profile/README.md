@@ -1,4 +1,4 @@
-# TheParasiteProject [Currently brokean (Changes in progress)]
+# TheParasiteProject
 
 ## TheParasiteProject will always be Personal project!
 
