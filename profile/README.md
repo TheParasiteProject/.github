@@ -1,4 +1,4 @@
-# TheParasiteProject [WIP] [Rebase to A14] [Currently broken]
+# TheParasiteProject [WIP] [A14] [Currently broken] [No APEX update]
 
 ## TheParasiteProject will always be Personal project!
 
