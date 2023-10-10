@@ -1,4 +1,4 @@
-# TheParasiteProject [WIP] [A14] [Currently broken] [No APEX update]
+# TheParasiteProject [No Pixel-FW]
 
 ## TheParasiteProject will always be Personal project!
 
