@@ -1,11 +1,11 @@
 # TheParasiteProject [No Pixel-FW]
 
 ## Note
-This org includes various experimental changes
-which may or may not work (although we tested every time when we release it).
+This org includes various experimental changes<br/>
+which may or may not work (although we tested every time when we release it).<br/>
 So please be aware about this!
 
-And sometimes we wrote weird commit messages if we commit stuffs at dawn, etc. XD
+And sometimes we wrote weird commit messages if we commit stuffs at dawn, etc. XD<br/>
 Though usually we fixes this right after we noticed this by rebase...
 
 Anyways, Hope this project helps your projects :)
