@@ -1,4 +1,4 @@
-# TheParasiteProject [No Pixel-FW]
+# TheParasiteProject
 
 ## Note
 This org includes various experimental changes<br/>
