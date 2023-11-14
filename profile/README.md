@@ -8,7 +8,7 @@ So please be aware about this!
 And sometimes we wrote weird commit messages if we commit stuffs at dawn, etc. XD<br/>
 Though usually we fixes this right after we noticed this by rebase...
 
-Anyways, Hope this project helps your projects :)
+In any case, Hope this project helps your projects :)
 
 ## TheParasiteProject will always be Personal project!
 
