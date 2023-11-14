@@ -33,6 +33,7 @@ Check these repos for information.
 - [Acme UI](https://github.com/AcmeUI)
 - [AOSPA](https://github.com/AOSPA)
 - [BenzoRom](https://github.com/BenzoRom)
+- [CipherOS](https://github.com/CipherOS)
 - [crDroid Android](https://github.com/crdroidandroid)
 - [DerpFest AOSP](https://github.com/DerpFest-AOSP)
 - [Descendant](https://github.com/Descendant-XI)
