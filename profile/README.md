@@ -1,4 +1,4 @@
-# TheParasiteProject [SystemUIGoogle broken]
+# TheParasiteProject
 
 ## Note
 
