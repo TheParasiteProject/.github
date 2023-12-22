@@ -46,6 +46,7 @@ Check these repos for more information.
 - [hentaiOS](https://github.com/hentaiOS)
 - [LineageOS](https://github.com/LineageOS)
 - [minaripenguin](https://github.com/minaripenguin)
+- [PixelBlaster-OS](https://github.com/PixelBlaster-OS)
 - [PixelExperience](https://github.com/PixelExperience)
 - [Project Kaleidoscope](https://github.com/Project-Kaleidoscope)
 - [ProtonAOSP](https://github.com/protonAOSP)
