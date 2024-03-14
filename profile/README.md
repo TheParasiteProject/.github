@@ -36,6 +36,7 @@ Check these repos for more information.
 - [Acme UI](https://github.com/AcmeUI)
 - [AOSPA](https://github.com/AOSPA)
 - [BenzoRom](https://github.com/BenzoRom)
+- [BlissRoms](https://github.com/BlissRoms)
 - [CalyxOS](https://github.com/CalyxOS)
 - [CipherOS](https://github.com/CipherOS)
 - [crDroid Android](https://github.com/crdroidandroid)
