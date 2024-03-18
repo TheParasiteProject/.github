@@ -60,8 +60,8 @@ Check these repos for more information.
 <br/>
 And many other great projects!
 
-## Donation
+## Donethon
 
-U can show us your love by donatng us!!!!!!!
+U can show us ur luv by donetng us!!!!!!!
 
-- [Let'sGo!](https://someone5678.github.io/docs/2024-03-14.html)
+- [LessGo!](https://someone5678.github.io/docs/2024-03-14.html)
