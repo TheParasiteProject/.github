@@ -14,7 +14,7 @@ In any case, Hope this project helps your projects :)
 ## TheParasiteProject will always be Personal project!
 
 Some minimal changes applied `personal` AOSP based OS,<br/>
-which mainly based on [PixelExperience](https://github.com/PixelExperience),</br>
+which based on various custom roms,</br>
 that add Google Play System Update, Carrier Settings, and features that of personal taste :P<br/>
 which also focused on bringing more Pixel features into AOSP<br/>
 by `Parasitizing` other AOSP projects.
