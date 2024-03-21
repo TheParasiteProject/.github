@@ -1,4 +1,4 @@
-# TheParasiteProject [WIP QPR2 merge]
+# TheParasiteProject [WIP QPR2 merge] [No Pixel-FW]
 
 ## Note
 
