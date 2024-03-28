@@ -2,12 +2,26 @@
 
 ## Note
 
-This org includes various `experimental` changes<br/>
+1. This org includes various `experimental` changes<br/>
 which may or may not work (although we tested every time when we release it).<br/>
 So please be aware about this!
 
-And sometimes we wrote weird commit messages if we commit stuffs at dawn, etc. XD<br/>
+2. And sometimes we wrote weird commit messages if we commit stuffs at dawn, etc. XD<br/>
 Though usually we fixes this right after we noticed this by rebase...
+
+3. For anyone who try to build this project, we really appreciate about that!<br/>
+But we couldn't guarantee about the stability.<br/>
+We've seen many people have build issues or get bootloop on their devices.<br/>
+As it's `personal` experimental project, source or feature could be broken in any time.<br/>
+
+4. Also this rom doesn't look that different than Pixel stock firmware<br/>
+(as this project's main goal is Pixel like experience).<br/>
+
+5. And most of time, features that released on this project could be presents in other projects.
+
+6. So, instead of take your precious time to build this project,<br/>
+we recoommend you to consider take a look around other custom AOSP projects!<br/>
+(They are really good, seriously.)
 
 In any case, Hope this project helps your projects :)
 
@@ -32,6 +46,9 @@ Check these repos for more information.
 - [TheParasiteProject-Devices](https://github.com/TheParasiteProject-Devices)
 
 ## Credits
+
+These projects commits are take important part of this project.<br>
+We are really thankful about that!!!
 
 - [Acme UI](https://github.com/AcmeUI)
 - [AOSPA](https://github.com/AOSPA)
