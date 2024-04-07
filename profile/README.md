@@ -20,7 +20,7 @@ As it's `personal` experimental project, source or feature could be broken in an
 5. And most of time, features that released on this project could be presents in other projects.
 
 6. So, instead of take your precious time to build this project,<br/>
-we recoommend you to consider take a look around other custom AOSP projects!<br/>
+we recommends you to consider take a look around other custom AOSP projects!<br/>
 (They are really good, seriously.)
 
 In any case, Hope this project helps your projects :)
