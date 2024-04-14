@@ -1,4 +1,4 @@
-# TheParasiteProject [No Pixel-FW]
+# TheParasiteProject
 
 ## Note
 
