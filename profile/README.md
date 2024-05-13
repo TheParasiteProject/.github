@@ -1,5 +1,9 @@
 # TheParasiteProject
 
+## ToDo
+
+* Move to Lineage-SDK instead of importing hw and impls separately.
+
 ## Note
 
 1. This org includes various `experimental` changes<br/>
