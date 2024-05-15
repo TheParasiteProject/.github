@@ -1,4 +1,4 @@
-# TheParasiteProject
+# TheParasiteProject [Migrate to LineageSDK] [Currently broken!]
 
 ## Note
 
