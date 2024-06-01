@@ -2,6 +2,9 @@
 
 ## Note
 
+**Please read README.md before proceed<br>
+to build or ask something to me!**
+
 1. This org includes various `experimental` changes<br/>
 which may or may not work (although we tested every time when we release it).<br/>
 So please be aware about this!
