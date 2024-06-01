@@ -3,7 +3,7 @@
 ## Note
 
 **Please read each repos' README.md<br>
-before proceed to build or ask something to me!**
+before proceed to build or ask something to us!**
 
 1. This org includes various `experimental` changes<br/>
 which may or may not work (although we tested every time when we release it).<br/>
