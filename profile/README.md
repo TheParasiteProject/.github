@@ -64,6 +64,7 @@ We are really thankful about that!!!
 - [Descendant](https://github.com/Descendant-XI)
 - [Evolution-X](https://github.com/Evolution-X)
 - [Flamingo-OS](https://github.com/Flamingo-OS)
+- [Halcyon](https://github.com/halcyonproject)
 - [hentaiOS](https://github.com/hentaiOS)
 - [LineageOS](https://github.com/LineageOS)
 - [minaripenguin](https://github.com/minaripenguin)
