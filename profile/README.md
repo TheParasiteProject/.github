@@ -5,7 +5,7 @@
 **Please read each repos' README.md<br>
 before proceed to build or ask something to us!**
 
-**If you find bug, or add pr but when we didn't noticed,<br>
+**If you find bugs, or add pull requests to repos but when we didn't noticed,<br>
 please report those to our [issue tracker](https://github.com/TheParasiteProject/issue_tracker)!**
 
 1. This org includes various `experimental` changes<br/>
