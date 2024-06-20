@@ -1,4 +1,4 @@
-# TheParasiteProject [WIP] [QPR3] [Currently Broken]
+# TheParasiteProject [ALPHA] [TESTING]
 
 ## Note
 
