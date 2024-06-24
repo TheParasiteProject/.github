@@ -1,4 +1,4 @@
-# TheParasiteProject [BETA]
+# TheParasiteProject
 
 ## Note
 
