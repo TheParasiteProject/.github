@@ -5,6 +5,10 @@
 **Please read each repos' README.md<br>
 before proceed to build or ask something to us!**
 
+**This project doesn't support userdebug build spoofing.<br>
+As we use userdebug for actual debug purposes.<br>
+Please build user build if possible!**
+
 **If you find bugs, or add pull requests to repos but when we didn't noticed,<br>
 please report those to our [issue tracker](https://github.com/TheParasiteProject/issue_tracker)!**
 
