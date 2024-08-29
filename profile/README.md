@@ -77,6 +77,7 @@ We are really thankful about that!!!
 - [minaripenguin](https://github.com/minaripenguin)
 - [PixelBlaster-OS](https://github.com/PixelBlaster-OS)
 - [PixelExperience](https://github.com/PixelExperience)
+- [PixelOS](https://github.com/PixelOS-AOSP)
 - [Project Kaleidoscope](https://github.com/Project-Kaleidoscope)
 - [ProtonAOSP](https://github.com/protonAOSP)
 - [riceDroid Open Source Software](https://github.com/ricedroidOSS)
