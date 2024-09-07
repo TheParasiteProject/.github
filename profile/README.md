@@ -1,6 +1,26 @@
 # TheParasiteProject
 
+Funky changes applied `personal` Open Source OS based on [AOSP](https://source.android.com/),<br/>
+which based on various custom AOSP projects,</br>
+that add Google Play System Update, Carrier Settings, and features that of our personal tastes :P<br/>
+which also focused on bringing more Pixel features into AOSP<br/>
+by `Parasitizing` other AOSP projects.
+
+## Build Process
+
+Check these repos for more information.
+
+- [manifest](https://github.com/TheParasiteProject/manifest)
+- [vendor_aosp](https://github.com/TheParasiteProject/vendor_aosp)
+- [build-scripts](https://github.com/TheParasiteProject/build-scripts)
+
+## Devices
+
+- [TheParasiteProject-Devices](https://github.com/TheParasiteProject-Devices)
+
 ## Note
+
+**TheParasiteProject will always be Personal project!**
 
 **Please read each repos' README.md<br>
 before proceed to build or ask something to us!**
@@ -34,26 +54,6 @@ we recommends you to consider take a look around other custom AOSP projects!<br/
 (They are really good, seriously.)
 
 In any case, Hope this project helps your projects :)
-
-## TheParasiteProject will always be Personal project!
-
-Funky changes applied `personal` AOSP based OS,<br/>
-which based on various custom roms,</br>
-that add Google Play System Update, Carrier Settings, and features that of our personal tastes :P<br/>
-which also focused on bringing more Pixel features into AOSP<br/>
-by `Parasitizing` other AOSP projects.
-
-## Build Process
-
-Check these repos for more information.
-
-- [manifest](https://github.com/TheParasiteProject/manifest)
-- [vendor_pixel-additional](https://github.com/TheParasiteProject/vendor_pixel-additional)
-- [vendor_aosp](https://github.com/TheParasiteProject/vendor_aosp)
-
-## Devices
-
-- [TheParasiteProject-Devices](https://github.com/TheParasiteProject-Devices)
 
 ## Credits
 
