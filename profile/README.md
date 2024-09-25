@@ -1,3 +1,10 @@
+# Maintenance paused until the start of 2025
+
+Due to busy schedule, maintenance paused until the start of 2025.
+Until then, only minor bug fixes (cts issue, etc) will be done.
+
+Thanks!
+
 # TheParasiteProject
 
 Funky changes applied `personal` Open Source OS based on [AOSP](https://source.android.com/),<br/>
