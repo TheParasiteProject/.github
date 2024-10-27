@@ -64,7 +64,7 @@ In any case, Hope this project helps your projects :)
 
 ## Credits
 
-These projects' commits are take important part of this project.<br>
+These projects' commits took important part of this project.<br>
 We are really thankful about that!!!
 
 - [Acme UI](https://github.com/AcmeUI)
@@ -105,7 +105,7 @@ But we will not accept any donation as this is just `personal` project for our o
 Although, we don’t/won’t recieve any donations,<br>
 you can show your consideration to other developers/corporations/organizations (not us!).<br>
 <br>
-You’re donations/purchases will help people/corporations/organizations<br>
+Your donations/purchases will help people/corporations/organizations<br>
 to keep maintain, update their softwares/products/projects you love!<br>
 <br>
 Even the small amount of it is still crucial and thankful to them!<br>
