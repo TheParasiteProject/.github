@@ -1,4 +1,4 @@
-# TheParasiteProject [BROKEN] [15.0 WIP]
+# TheParasiteProject [BROKEN] [15.0 WIP] [DON'T PICK YET!!]
 
 Funky changes applied `personal` Open Source OS based on [AOSP](https://source.android.com/),<br/>
 which based on various custom AOSP projects,</br>
