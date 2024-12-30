@@ -74,6 +74,7 @@ We are really thankful about that!!!
 - [Halcyon](https://github.com/halcyonproject)
 - [hentaiOS](https://github.com/hentaiOS)
 - [LineageOS](https://github.com/LineageOS)
+- [Miku UI](https://github.com/Miku-UI)
 - [minaripenguin](https://github.com/minaripenguin)
 - [PixelBlaster-OS](https://github.com/PixelBlaster-OS)
 - [PixelExperience](https://github.com/PixelExperience)
