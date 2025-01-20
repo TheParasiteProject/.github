@@ -1,15 +1,15 @@
 # TheParasiteProject [15.0 WIP]
 
-Funky changes applied `personal` Open Source OS based on [AOSP](https://source.android.com/),<br/>
-which based on various custom AOSP projects,</br>
-that add Google Play System Update, Carrier Settings, and features that of our personal tastes :P<br/>
-which also focused on bringing more Pixel features into AOSP<br/>
-by `Parasitizing` other AOSP projects,<br/>
+Funky changes applied `personal` Open Source OS based on [AOSP](https://source.android.com/),<br>
+which based on various custom AOSP projects,<br>
+that add Google Play System Update, Carrier Settings, and features that of our personal tastes :P<br>
+which also focused on bringing more Pixel features into AOSP<br>
+by `Parasitizing` other AOSP projects,<br>
 *`with parasitically manipulated Lineage-SDK.`*
 
 ## Build Process
 
-Check these repos for more information.
+Get detailed instructions on building this project in these repositories.
 
 - [manifest](https://github.com/TheParasiteProject/manifest)
 - [vendor_aosp](https://github.com/TheParasiteProject/vendor_aosp)
@@ -23,43 +23,43 @@ Check these repos for more information.
 
 **TheParasiteProject will always be Personal project!**
 
-**Please read each repos' README.md<br>
-before proceed to build or ask something to us!**
+**We recommend reading the README files in each repository<br>
+before attempting to build the project or reach out for assistance.**
 
-**This project doesn't support userdebug build spoofing.<br>
-As we use userdebug for actual debug purposes.<br>
+**This project doesn't support userdebug build spoofing<br>
+as we use it for actual debug purposes.<br>
 Please build user build if possible!**
 
 **If you find bugs, or add pull requests to repos but when we didn't noticed,<br>
 please report those to our [issue tracker](https://github.com/TheParasiteProject/issue_tracker)!**
 
-1. This org includes various `experimental` changes<br/>
-which may or may not work (although we tested every time when we release it).<br/>
+1. This org includes various `experimental` changes<br>
+which may or may not work (although we tested every time when we release it).<br>
 So please be aware about this!
 
-2. And sometimes we wrote weird commit messages if we commit stuffs at dawn, etc. XD<br/>
+1. And sometimes we wrote weird commit messages if we commit stuffs at dawn, etc.<br>
 Though usually we fixes this right after we noticed this by rebase...
 
-3. For anyone who try to build this project, we really appreciate about that!<br/>
-But we couldn't guarantee about the stability.<br/>
-We've seen many people have build issues or get bootloop on their devices.<br/>
-As it's `personal` experimental project, source or feature could be broken in any time.<br/>
+1. For anyone who try to build this project, we really appreciate about that!<br>
+But we couldn't guarantee about the stability.<br>
+We've seen many people have build issues or get bootloop on their devices.<br>
+As it's `personal` experimental project, source or feature could be broken in any time.<br>
 
-4. Also this rom doesn't look that different than Pixel stock firmware<br/>
-(as this project's main goal is Pixel like experience).<br/>
+1. Also this rom doesn't look that different than Pixel stock firmware<br>
+(as this project's main goal is Pixel like experience).<br>
 
-5. And most of time, features that released on this project could be presents in other projects.
+1. And most of time, features that released on this project could be presents in other projects.
 
-6. So, instead of take your precious time to build this project,<br/>
-we recommends you to consider take a look around other custom AOSP projects!<br/>
-(They are really good, seriously.)
+2. So, instead of take your precious time to build this project,<br>
+we recommends you to consider take a look around other custom AOSP projects!<br>
+(They are really good!)
 
 In any case, Hope this project helps your projects :)
 
 ## Credits
 
-These projects' commits took important part of this project.<br>
-We are really thankful about that!!!
+We are grateful to the following projects whose commits played an important role in the development of this project.<br>
+Their work has been a great source of inspiration and guidance for us!
 
 - [Acme UI](https://github.com/AcmeUI)
 - [AOSPA](https://github.com/AOSPA)
@@ -88,14 +88,14 @@ We are really thankful about that!!!
 - [VoidUI Tiramisu](https://github.com/VoidUI-Tiramisu)
 - [Yet another AOSP project](https://github.com/yaap)
 
-<br/>
+<br>
 And many other great projects!
 
 ## Donation
 
 We recieved suggestion about opening donation account from some people.<br>
 Thanks for considerations of donation and such suggestions!<br>
-But we will not accept any donation as this is just `personal` project for our own fun XD.<br>
+But we will not accept any donation as this is just `personal` project for our own fun!<br>
 <br>
 Although, we don’t/won’t recieve any donations,<br>
 you can show your consideration to other developers/corporations/organizations (not us!).<br>
