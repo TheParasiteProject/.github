@@ -4,7 +4,8 @@ Funky changes applied `personal` Open Source OS based on [AOSP](https://source.a
 which based on various custom AOSP projects,</br>
 that add Google Play System Update, Carrier Settings, and features that of our personal tastes :P<br/>
 which also focused on bringing more Pixel features into AOSP<br/>
-by `Parasitizing` other AOSP projects.
+by `Parasitizing` other AOSP projects,<br/>
+*`with parasitically manipulated Lineage-SDK.`*
 
 ## Build Process
 
