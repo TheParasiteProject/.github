@@ -1,4 +1,4 @@
-# TheParasiteProject
+# TheParasiteProject [Pixel-FW WIP]
 
 Funky changes applied `personal` Open Source OS based on [AOSP](https://source.android.com/),<br>
 which based on various custom AOSP projects,<br>
