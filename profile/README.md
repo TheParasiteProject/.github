@@ -25,7 +25,7 @@ Get detailed instructions on building this project in these repositories.
 
 This project does not supports Play Integrity bypassing.<br>
 While older sources contains those patches,<br>
-newer sources after 14 deprecates those changes.<br>
+newer sources after Android 14 deprecates those changes.<br>
 
 - [Quirks - Device integrity](https://wiki.lineageos.org/quirks/snet/) by [LineageOS](https://github.com/LineageOS)
 - [Play Integrity](https://lineageos.org/PlayIntegrity/) by [LineageOS](https://github.com/LineageOS)
