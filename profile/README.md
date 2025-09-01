@@ -91,6 +91,7 @@ Their work has been a great source of inspiration and guidance for us!
 - [LineageOS](https://github.com/LineageOS)
 - [Miku UI](https://github.com/Miku-UI)
 - [minaripenguin](https://github.com/minaripenguin)
+- [Neoteric OS](https://github.com/Neoteric-OS)
 - [PixelBlaster-OS](https://github.com/PixelBlaster-OS)
 - [PixelExperience](https://github.com/PixelExperience)
 - [PixelOS](https://github.com/PixelOS-AOSP)
