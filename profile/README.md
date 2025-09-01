@@ -98,6 +98,7 @@ Their work has been a great source of inspiration and guidance for us!
 - [ProtonAOSP](https://github.com/protonAOSP)
 - [riceDroid Open Source Software](https://github.com/ricedroidOSS)
 - [Rising Tech Open Source Software](https://github.com/RisingTechOSS)
+- [Rising Revived OSS](https://github.com/RisingOS-Revived)
 - [StatiX](https://github.com/StatiXOS)
 - [VoidUI Tiramisu](https://github.com/VoidUI-Tiramisu)
 - [Yet another AOSP project](https://github.com/yaap)
