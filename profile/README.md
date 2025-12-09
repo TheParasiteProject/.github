@@ -11,8 +11,8 @@ by `Parasitizing` other AOSP projects,<br>
 Get detailed instructions on building this project in these repositories.
 
 - [manifest](https://github.com/TheParasiteProject/manifest)
-- [vendor_aosp](https://github.com/TheParasiteProject/vendor_aosp)
-- [build-scripts](https://github.com/TheParasiteProject/build-scripts)
+- [vendor_parasite_common](https://github.com/TheParasiteProject/vendor_parasite_common)
+- [device_manifests](https://github.com/TheParasiteProject/device_manifests)
 
 ## Devices
 
