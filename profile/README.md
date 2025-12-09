@@ -1,11 +1,8 @@
-# TheParasiteProject [Paused]
-
-* Due to busy schedule, development for TheParasiteProject is paused.
+# TheParasiteProject [Dewormed]
 
 Funky changes applied `personal` Open Source OS based on [AOSP](https://source.android.com/),<br>
 which based on various custom AOSP projects,<br>
-that add Google Play System Update, Carrier Settings, and features that of our personal tastes :P<br>
-which also focused on bringing more Pixel features into AOSP<br>
+that add features that of our personal tastes :P<br>
 by `Parasitizing` other AOSP projects,<br>
 *`with parasitically manipulated Lineage-SDK.`*
 
@@ -20,6 +17,11 @@ Get detailed instructions on building this project in these repositories.
 ## Devices
 
 - [TheParasiteProject-Devices](https://github.com/TheParasiteProject-Devices)
+
+## Google Mobile Services
+
+This project *`thoroughly dewormed`* of all GMS components to ensure legal compliance.<br>
+We will upload only opensource-able components from this point forward.<br>
 
 ## Play Integrity
 
@@ -50,20 +52,17 @@ please report those to our [issue tracker](https://github.com/TheParasiteProject
 which may or may not work (although we tested every time when we release it).<br>
 So please be aware about this!
 
-1. And sometimes we wrote weird commit messages if we commit stuffs at dawn, etc.<br>
+2. And sometimes we wrote weird commit messages if we commit stuffs at dawn, etc.<br>
 Though usually we fixes this right after we noticed this by rebase...
 
-1. For anyone who try to build this project, we really appreciate about that!<br>
+3. For anyone who try to build this project, we really appreciate about that!<br>
 But we couldn't guarantee about the stability.<br>
 We've seen many people have build issues or get bootloop on their devices.<br>
 As it's `personal` experimental project, source or feature could be broken in any time.<br>
 
-1. Also this rom doesn't look that different than Pixel stock firmware<br>
-(as this project's main goal is Pixel like experience).<br>
+4. And most of time, features that released on this project could be presents in other projects.
 
-1. And most of time, features that released on this project could be presents in other projects.
-
-2. So, instead of take your precious time to build this project,<br>
+5. So, instead of take your precious time to build this project,<br>
 we recommends you to consider take a look around other custom AOSP projects!<br>
 (They are really good!)
 
