@@ -12,6 +12,7 @@ Get detailed instructions on building this project in these repositories.
 
 - [manifest](https://github.com/TheParasiteProject/manifest)
 - [vendor_parasite_common](https://github.com/TheParasiteProject/vendor_parasite_common)
+- [device_manifests](https://github.com/TheParasiteProject-Devices/device_manifests)
 
 ## Devices
 
